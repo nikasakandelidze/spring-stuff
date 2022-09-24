@@ -51,5 +51,5 @@ If you think you’ve got something that should be in the list, feel free to fol
 * [Spring Puzzlers talk by Evgeny borisov (In russian)](https://www.youtube.com/watch?v=ts082-iG_cM&t=107s)
 * [1 Spring Boot Interview Questions That Make You Think from Marco Behler](https://www.marcobehler.com/guides/spring-boot-interview-questions)
 * [Spring And Spring Boot Versions from Marco Behler](https://www.marcobehler.com/guides/spring-and-spring-boot-versions)
-* [Spring Security: Authentication and Authorization In-Depth from Marco Behler](Spring Security: Authentication and Authorization In-Depth)
+* [Spring Security: Authentication and Authorization In-Depth from Marco Behler](https://www.marcobehler.com/guides/spring-security)
 * [Spring Security & OAuth 2.0 - In-Depth](https://www.marcobehler.com/guides/spring-security-oauth2)
