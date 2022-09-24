@@ -16,8 +16,7 @@ If you think you’ve got something that should be in the list, feel free to fol
 * [Introduction to Spring Boot (Course) by Java Brains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
 * [What is Spring Framework? An unorthodox guide from Marco Behler](https://www.marcobehler.com/guides/spring-framework)
 * [What is Spring MVC: @Controllers & @RestControllers from Marco Behler](https://www.marcobehler.com/guides/spring-mvc)
-* [How Spring Boot’s Autoconfigurations Work from Marco behler](How Spring Boot’s Autoconfigurations Work
-)
+* [How Spring Boot’s Autoconfigurations Work from Marco behler](https://www.marcobehler.com/guides/spring-boot-autoconfiguration)
 * [Spring Transaction Management: @Transactional In-Depth from Marco Behler](https://www.marcobehler.com/guides/spring-transaction-management-transactional-in-depth)
 * [Catalogue of Spring related Articles from Baeldung](https://www.baeldung.com/spring-tutorial)
 * [Easy to understand Spring basics crash course by Telusko](https://www.youtube.com/watch?v=If1Lw4pLLEo)
