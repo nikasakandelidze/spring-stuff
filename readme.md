@@ -2,7 +2,7 @@
 Spring Framework and related stuff
 
 
-##Contributing workflow
+## Contributing workflow
 If you think you’ve got something that should be in the list, feel free to follow these steps:
 
 - Fork the repo.
@@ -11,10 +11,11 @@ If you think you’ve got something that should be in the list, feel free to fol
 - Send a pull request from your fork’s branch to our master branch.
 
 ## Stuff
-* [Deep Introduction course for Spring & Spring Boot](https://www.youtube.com/watch?v=m-L-r862J-E&list=PLEocw3gLFc8WO_HvFzTWUj2fqa7Y8-yg5)
-* [Introduction to Spring Boot (Course)](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
-* [Catalogue of Spring related Articles](https://www.baeldung.com/spring-tutorial)
-* [Easy to understand Spring basics crash course](https://www.youtube.com/watch?v=If1Lw4pLLEo)
+* [Deep Introduction course for Spring & Spring Boot by legend himself: Laurentu Spilca](https://www.youtube.com/watch?v=m-L-r862J-E&list=PLEocw3gLFc8WO_HvFzTWUj2fqa7Y8-yg5)
+* [Spring core masterclass by Marco Behler](https://www.youtube.com/watch?v=rVxMCEyQfvk&list=PLz-qdc-PbYk6ikoEsdn4VZ4HUkKPVPMXp)
+* [Introduction to Spring Boot (Course) by Java Brains](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x)
+* [Catalogue of Spring related Articles from Baeldung](https://www.baeldung.com/spring-tutorial)
+* [Easy to understand Spring basics crash course by Telusko](https://www.youtube.com/watch?v=If1Lw4pLLEo)
 * [Excellent book for Introduction to Spring](https://www.manning.com/books/spring-start-here)
 * [Talk to understand how Spring Boot works under the hood(from Nicolas Frankel)](https://www.youtube.com/watch?v=zSJFx0iyrq4)
 * [Talk to understand how Spring Boot works under the hood(from creators)](https://www.youtube.com/watch?v=uof5h-j0IeE&t=1618s)
@@ -30,3 +31,4 @@ If you think you’ve got something that should be in the list, feel free to fol
 * [Course about fundamentals of Hibernate from Thorben Janssen](https://www.youtube.com/watch?v=uVLujq7_35E&list=PL50BZOuKafAYFT_F4Yris5Vj2ApwzUfmR)
 * [Course about hibernate tips and tricks from Thorben Janssen](https://www.youtube.com/watch?v=UNlxYLBVDMs&list=PL50BZOuKafAbXxVJiD9csunZfQOJ5X7hP)
 * [Course about Spring data JPA from Thorben Janssen](https://www.youtube.com/watch?v=x67yiTHxn00&list=PL50BZOuKafAYqbYZ18lqVet_zA2MsZZcW)
+* [Talk about Spring Data JDBC by jens schauder](https://www.youtube.com/watch?v=SJlKBkZ2yAU)
